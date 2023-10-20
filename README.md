@@ -1,5 +1,5 @@
 # drComRead
-The application allows you to organize a library and view digital comics.
+The application allows you to organize a library and read digital comics.
 
 * Import from archives CBR, CBZ, PDF, URL and also from folders with images is supported.
 * The library with the functions of filtering and sorting comics is divided into several sections.
